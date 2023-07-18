@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "name": "Internacionais",
+      "src": "/internacionais.jpg",
+      "altImage": "Capa do álbum Internacionais de Marco Antônio",
+      "href": "https://open.spotify.com/playlist/10TPlQ7uUXwcLXiQAoLxyH"
+    },
+    {
+      "name": "Unorthodox Jukebox",
+      "src": "/album_bruno.jpg",
+      "altImage": "Capa do álbum Unorthodox Jukebox do Bruno Mars",
+      "href": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+    },
+    {
+      "name": "Shawn Mendes (All Albums)",
+      "src": "/album_shawn.jpg",
+      "altImage": "Capa de todos os álbuns do Shawn Mendes",
+      "href": "https://open.spotify.com/playlist/0J72KL0KdU1W4OnbZ2Xgiu"
+    },
+    {
+      "name": "Don't Smile at Me",
+      "src": "/album_billie.jpg",
+      "altImage": "Capa do álbum Don't Smile at Me da Billie Eilish",
+      "href": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+    },
+    {
+      "name": "Reconstrução",
+      "src": "/album_tiago.jpg",
+      "altImage": "Capa do álbum Reconstrução do Tiago Iorc",
+      "href": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+    },
+    {
+      "name": "Parachutes",
+      "src": "/album_coldplay.jpg",
+      "altImage": "Capa do álbum Parachutes do Coldplay",
+      "href": "https://open.spotify.com/intl-pt/album/6ZG5lRT77aJ3btmArcykra"
+    },
+    {
+      "name": "The Best of Queen",
+      "src": "/album_queen.jpg",
+      "altImage": "Capa do álbum The Best of Queen",
+      "href": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+    },
+    {
+      "name": "VIVA (Ao Vivo)",
+      "src": "/album_luan.jpg",
+      "altImage": "Capa do álbum VIVA (Ao Vivo) do Luan Santana",
+      "href": "https://open.spotify.com/intl-pt/album/1n4L6uxvbs8n1hnXI2WOTR"
+    },
+    {
+      "name": "Forget and Train 🗿🍷💪🏻",
+      "src": "/forget_and_train.jpg",
+      "altImage": "Capa da playlist Forget and Train 🗿🍷💪🏻",
+      "href": "https://open.spotify.com/playlist/4ASfi3SLshM0MzeaZpZjRa"
+    }
+  ],
+  [
+    {
+      "name": "Melhor eu ir / Ligando Os Fatos / Sonho de amor...",
+      "src": "/melhor_eu_ir.jpg",
+      "altImage": "Capa da música Melhor eu ir / Ligando Os Fatos / Sonho de amor...",
+      "href": "https://open.spotify.com/intl-pt/track/5r9CZJMoMmxio2AnJdxuDS",
+      "description": "Vamos falar de amor, meu velho?"
+    },
+    {
+      "name": "Until I Found You - Piano Version",
+      "src": "/until_i_found_you.jpg",
+      "altImage": "Capa da música Until I Found You - Piano Version",
+      "href": "https://open.spotify.com/intl-pt/track/06vNG6CiV4k8oNA0wUUAO7",
+      "description": "Essa não poderia faltar"
+    },
+    {
+      "name": "Contra mão - Ao vivo",
+      "src": "/contra_mao.jpg",
+      "altImage": "Capa da música Contra mão",
+      "href": "https://open.spotify.com/intl-pt/track/5g2HVlqROusgDTtun6Y5Tn",
+      "description": "Amo cantar essa música, mesmo desafinando haha"
+    },
+    {
+      "name": "Golden hour",
+      "src": "/golden_hour.jpg",
+      "altImage": "Capa da música Golden hour",
+      "href": "https://open.spotify.com/intl-pt/track/4yNk9iz9WVJikRFle3XEvn",
+      "description": "O toque dessa música é incrível"
+    },
+    {
+      "name": "Let's Fall in Love for the Night",
+      "src": "/lets_fall_in_love.jpg",
+      "altImage": "Capa da música Let's Fall in Love for the Night",
+      "href": "https://open.spotify.com/intl-pt/track/6I0KEvFfWszVJiCy5hum4V",
+      "description": "Essa música tem meu coração"
+    }
+  ]
+]
